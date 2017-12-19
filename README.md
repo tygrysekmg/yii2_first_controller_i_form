@@ -1,3 +1,5 @@
+first composer install
+
 run http://localhost/yii2_first_controller_i_form/web/index.php?r=site%2Fsay&message=Hello+World
 and run 
 http://localhost/yii2_first_controller_i_form/web/index.php?r=site%2Fentry
